@@ -45,11 +45,14 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Streak
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Anshhhitaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshhhitaaaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Anshhhitaaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshhhitaaaa&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
