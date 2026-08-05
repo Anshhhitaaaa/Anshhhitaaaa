@@ -40,8 +40,10 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🌸 **[Saheli](https://github.com/Anshhhitaaaa/saheli)** | AI-powered women's health companion with period tracking, multi-LLM RAG & teleconsultation | `React` `TS` `Node` `PostgreSQL` `LangGraph` |
+| 🌐 **[Personal Portfolio](https://github.com/Anshhhitaaaa/Portfolio)** | Interactive developer portfolio with modern UI/UX, smooth animations & project showcases | `React` `TypeScript` `Tailwind` `Framer Motion` |
 | ⚡ **[UP-GENZ](https://github.com/Anshhhitaaaa/up-genz)** | Peer-to-peer student skill exchange & mentorship platform | `React` `Node` `Express` `MongoDB` `Tailwind` |
 | 💰 **[Smart Budget](https://github.com/Anshhhitaaaa/smart-budget-expense-forecaster)** | Full-stack expense forecaster with dynamic spending analytics | `React` `Node` `Express` `MongoDB` `Chart.js` |
+| ⚙️ **[Enterprise Dashboard](https://github.com/Anshhhitaaaa)** | Admin dashboard featuring clean architecture, SQL Server & CI/CD deployment | `ASP.NET Core` `C#` `SQL Server` `Docker` |
 
 ---
 
