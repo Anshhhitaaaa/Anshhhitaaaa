@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Anshita Agrawal**
 
-🎓 **CSE Student @ IGDTUW** | 💻 **Full Stack Developer** | 🚀 **MERN & .NET Learner**
+🎓 **CSE Student @ IGDTUW** | 💻 **Full Stack Developer** | 🚀 **MERN, .NET Learner, AI-ML**
 
 <a href="https://github.com/Anshhhitaaaa">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Saheli+%7C+AI+Health+Companion;React+%7C+Node.js+%7C+PostgreSQL+%7C+.NET;Open+Source+Enthusiast" alt="Typing SVG" />
